@@ -1,0 +1,11 @@
+id,title,description,publish_time,duration_in_seconds,view_count,like_count,comment_count
+1,"Introdução ao Python","Um vídeo introdutório sobre programação em Python.","2023-01-01 12:00:00",600,10000,500,50
+2,"Data Science com Pandas","Aprenda a usar a biblioteca Pandas para análise de dados.","2023-02-15 14:30:00",900,8000,450,30
+3,"Machine Learning com Scikit-Learn","Construa modelos de machine learning com o Scikit-Learn.","2023-03-20 10:45:00",1200,12000,800,75
+4,"Visualização de Dados com Matplotlib","Crie gráficos e visualizações impactantes com o Matplotlib.","2023-04-10 09:15:00",800,6000,300,40
+5,"Introdução ao Deep Learning","Explore os fundamentos do Deep Learning com TensorFlow.","2023-05-05 11:00:00",1500,15000,1000,120
+6,"Análise Exploratória de Dados","Descubra insights interessantes em conjuntos de dados diversos.","2023-06-08 16:20:00",700,9000,400,55
+7,"Python para Web Scraping","Aprenda a extrair dados da web usando Python.","2023-07-12 13:45:00",1000,11000,600,70
+8,"Redes Neurais Convolucionais","Compreenda o funcionamento das CNNs para processamento de imagens.","2023-08-18 10:30:00",1800,20000,1200,150
+9,"Análise de Sentimento com NLTK","Aplique análise de sentimento em textos usando a biblioteca NLTK.","2023-09-25 14:10:00",950,7500,350,25
+10,"Big Data com Spark","Trabalhe com grandes conjuntos de dados usando o Apache Spark.","2023-10-30 11:30:00",1600,18000,900,100

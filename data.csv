@@ -9,3 +9,78 @@ id,title,description,publish_time,duration_in_seconds,view_count,like_count,comm
 8,"Redes Neurais Convolucionais","Compreenda o funcionamento das CNNs para processamento de imagens.","2023-08-18 10:30:00",1800,20000,1200,150
 9,"Análise de Sentimento com NLTK","Aplique análise de sentimento em textos usando a biblioteca NLTK.","2023-09-25 14:10:00",950,7500,350,25
 10,"Big Data com Spark","Trabalhe com grandes conjuntos de dados usando o Apache Spark.","2023-10-30 11:30:00",1600,18000,900,100
+11,"Análise de Redes Sociais","Explore padrões e conexões em redes sociais usando Python.","2023-11-10 15:20:00",850,9500,400,60
+12,"Regressão Linear em Python","Entenda e implemente regressão linear com Python.","2023-12-05 14:00:00",700,7800,350,30
+13,"Processamento de Linguagem Natural","Aprofunde-se em técnicas avançadas de processamento de linguagem natural.","2024-01-02 09:45:00",1100,12000,800,80
+14,"Análise Preditiva com Prophet","Use a biblioteca Prophet para análise preditiva em séries temporais.","2024-02-08 12:30:00",1000,9000,500,65
+15,"Aprendizado Não Supervisionado","Explore algoritmos não supervisionados como k-means e DBSCAN.","2024-03-15 10:15:00",1200,15000,700,90
+16,"Mineração de Texto","Aplique técnicas de mineração de texto para extrair informações significativas.","2024-04-20 14:45:00",950,8500,420,55
+17,"Análise de Sobrevivência em Python","Estude análise de sobrevivência usando Python e bibliotecas especializadas.","2024-05-25 11:30:00",1300,13000,750,80
+18,"Processamento de Imagens Médicas","Aplicações práticas de processamento de imagens médicas com Python.","2024-06-30 16:00:00",1500,18000,1000,120
+19,"Análise de Desempenho Esportivo","Utilize dados para analisar o desempenho de atletas e equipes esportivas.","2024-07-05 09:30:00",900,7000,300,40
+20,"Reconhecimento de Voz com Deep Learning","Construa um modelo de reconhecimento de voz usando redes neurais profundas.","2024-08-10 13:15:00",1700,20000,1200,140
+21,"Análise de Fraudes em Transações Financeiras","Identifique padrões de fraude em transações financeiras usando ML.","2024-09-15 14:00:00",1100,12000,600,70
+22,"Aprendizado por Reforço","Explore o aprendizado por reforço e aplique em ambientes simulados.","2024-10-20 10:45:00",1300,15000,800,85
+23,"Estatísticas Avançadas com Python","Aprofunde-se em técnicas estatísticas avançadas usando Python.","2024-11-25 12:30:00",950,11000,500,60
+24,"Visão Computacional com OpenCV","Desenvolva aplicações de visão computacional usando a biblioteca OpenCV.","2024-12-30 09:15:00",1200,14000,700,75
+25,"Análise de Dados em Tempo Real com Apache Kafka","Trabalhe com análise de dados em tempo real usando o Apache Kafka.","2025-01-05 15:30:00",800,7500,400,50
+26,"Interpretabilidade em Modelos de Machine Learning","Compreenda e melhore a interpretabilidade dos modelos de ML.","2025-02-10 14:15:00",1000,9500,550,60
+27,"Agrupamento Hierárquico","Explore a técnica de agrupamento hierárquico em conjuntos de dados.","2025-03-15 11:00:00",1100,12000,600,75
+28,"Análise de Dados Climáticos","Analise dados climáticos para identificar padrões e tendências.","2025-04-20 10:30:00",1300,16000,800,90
+29,"Testes Estatísticos em Python","Aprenda a realizar diferentes testes estatísticos utilizando Python.","2025-05-25 13:45:00",900,8500,450,40
+30,"Deep Learning para Processamento de Linguagem Natural","Aplique redes neurais profundas em tarefas de PLN.","2025-06-30 09:00:00",1500,19000,1000,110
+31,"Análise de Imagens em Medicina","Aplique técnicas avançadas de processamento de imagens em diagnósticos médicos.","2025-08-05 14:30:00",1200,13000,700,80
+32,"Previsão de Demanda em Vendas","Utilize modelos preditivos para prever a demanda em vendas.","2025-09-10 12:15:00",1000,11000,600,70
+33,"Análise de Redes Bayesianas","Compreenda e aplique análise de redes bayesianas em problemas complexos.","2025-10-15 11:30:00",1300,14000,800,90
+34,"Segmentação de Clientes","Utilize técnicas de clustering para segmentar clientes em categorias.","2025-11-20 10:45:00",900,9500,500,60
+35,"Aprendizado Federado","Explore o aprendizado federado para treinar modelos descentralizados.","2025-12-25 09:00:00",1600,18000,1000,110
+36,"Análise de Emoções em Textos","Aplique processamento de linguagem natural para analisar emoções em textos.","2026-01-01 15:15:00",1100,12000,700,80
+37,"Otimização de Hiperparâmetros","Aprenda a otimizar os hiperparâmetros de modelos de machine learning.","2026-02-05 13:30:00",950,8500,400,50
+38,"Reconhecimento de Objetos em Vídeos","Desenvolva um sistema de reconhecimento de objetos em vídeos.","2026-03-12 10:15:00",1400,16000,900,100
+39,"Análise de Redes Neurais Recorrentes","Compreenda redes neurais recorrentes para análise de sequências temporais.","2026-04-17 14:30:00",1200,13000,800,90
+40,"Simulação Monte Carlo em Finanças","Utilize simulação Monte Carlo para avaliação de riscos financeiros.","2026-05-22 11:45:00",1000,11000,600,70
+41,"Aprendizado Semi-Supervisionado","Explore técnicas de aprendizado semi-supervisionado em problemas de classificação.","2026-06-27 10:00:00",1300,14000,800,90
+42,"Análise de Sentimento em Mídias Sociais","Aplique técnicas de NLP para análise de sentimentos em mídias sociais.","2026-07-02 09:15:00",900,9500,450,60
+43,"Aprendizado por Transferência em Visão Computacional","Utilize aprendizado por transferência para tarefas de visão computacional.","2026-08-07 13:30:00",1500,17000,1000,120
+44,"Detecção de Anomalias em Sistemas","Implemente técnicas de detecção de anomalias para identificar comportamentos não usuais.","2026-09-11 12:45:00",1100,12000,700,80
+45,"Sistemas de Recomendação Baseados em Conteúdo","Desenvolva sistemas de recomendação usando abordagens baseadas em conteúdo.","2026-10-16 10:00:00",1300,14000,800,90
+46,"Análise de Desempenho de Algoritmos de ML","Avalie e compare o desempenho de diferentes algoritmos de machine learning.","2026-11-21 15:15:00",1200,13000,750,85
+47,"Inteligência Artificial na Saúde","Aplicações práticas de IA em diagnósticos médicos e tratamentos.","2026-12-26 09:30:00",1600,18000,1100,130
+48,"Aprendizado de Máquina Interpretável","Compreenda modelos de ML de forma interpretável para tomada de decisões mais confiável.","2027-01-01 14:45:00",1000,12000,600,70
+49,"Reconhecimento Facial com OpenCV","Desenvolva um sistema de reconhecimento facial utilizando a biblioteca OpenCV.","2027-02-05 13:00:00",1400,16000,900,100
+50,"Previsão de Preços com Séries Temporais","Utilize modelos de séries temporais para prever preços em mercados financeiros.","2027-03-12 11:15:00",1200,13000,750,85
+51,"Aprendizado Profundo para Processamento de Linguagem Natural","Aplique redes neurais profundas em tarefas avançadas de PLN.","2027-04-17 10:30:00",1500,17000,1000,120
+52,"Análise de Redes de Coautoria","Explore redes de coautoria para identificar colaborações científicas.","2027-05-22 15:45:00",1100,12000,700,80
+53,"Otimização em Machine Learning","Aprenda técnicas de otimização para melhorar o desempenho de modelos de ML.","2027-06-27 14:00:00",950,10000,550,60
+54,"Análise de Sinais Biomédicos","Aplique técnicas de processamento de sinais em dados biomédicos.","2027-08-01 09:15:00",1200,13000,800,90
+55,"Detecção de Padrões em Imagens Médicas","Desenvolva algoritmos para detecção de padrões em imagens médicas.","2027-09-06 12:30:00",1000,11000,600,70
+56,"Aprendizado Não Supervisionado Profundo","Explore técnicas avançadas de aprendizado não supervisionado com redes profundas.","2027-10-11 11:45:00",1300,14000,800,90
+57,"Análise de Sentimento em Vídeos","Aplique técnicas de NLP para análise de sentimentos em transmissões de vídeo.","2027-11-16 10:00:00",1200,13000,750,85
+58,"Interpretação de Modelos de ML","Compreenda como interpretar e explicar modelos complexos de machine learning.","2027-12-21 15:15:00",1600,18000,1100,130
+59,"Sistemas de Recomendação Colaborativos","Desenvolva sistemas de recomendação que explorem a colaboração entre usuários.","2028-01-26 09:30:00",1100,12000,700,80
+60,"Análise de Dados em Saúde Mental","Utilize dados para análise e compreensão de padrões em saúde mental.","2028-02-29 14:45:00",1000,12000,600,70
+61,"Reconhecimento de Voz em Ambientes Ruidosos","Desenvolva sistemas de reconhecimento de voz robustos em ambientes ruidosos.","2028-04-05 13:00:00",1400,16000,900,100
+62,"Previsão de Vendas com Redes Neurais Recorrentes","Aplique RNNs para prever vendas em séries temporais.","2028-05-10 11:15:00",1200,13000,750,85
+63,"Análise de Satisfação do Cliente","Utilize dados de feedback para análise de satisfação e melhoria de produtos e serviços.","2028-06-15 10:30:00",1500,17000,1000,120
+64,"Aprendizado de Máquina na Indústria","Aplicações práticas de machine learning na otimização de processos industriais.","2028-07-20 15:45:00",1100,12000,700,80
+65,"Análise de Risco em Seguros","Aplique modelos preditivos para avaliação de riscos em seguros.","2028-08-25 14:00:00",1300,14000,800,90
+66,"Reconhecimento de Padrões em Documentos Textuais","Desenvolva algoritmos para identificar padrões em documentos textuais.","2028-09-30 09:15:00",1200,13000,750,85
+67,"Otimização de Campanhas de Marketing","Utilize algoritmos de otimização para melhorar o desempenho de campanhas de marketing.","2028-11-04 14:30:00",1600,18000,1100,130
+68,"Análise de Redes Sociais em Saúde","Explore redes sociais para análise de informações relacionadas à saúde.","2028-12-09 09:45:00",1100,12000,700,80
+69,"Previsão de Consumo de Energia","Aplique modelos de previsão para estimar o consumo de energia em diferentes cenários.","2029-01-14 15:00:00",1200,13000,800,90
+70,"Análise de Padrões de Compra Online","Utilize dados de compras online para identificar padrões de comportamento do consumidor.","2029-02-18 14:15:00",950,11000,500,60
+71,"Sistemas de Recomendação com Fatorização de Matrizes","Desenvolva sistemas de recomendação avançados utilizando fatorização de matrizes.","2029-03-25 13:30:00",1300,14000,800,90
+72,"Aprendizado por Reforço em Jogos","Aplique aprendizado por reforço para treinar agentes em jogos.","2029-04-29 10:45:00",1200,13000,750,85
+73,"Análise de Dados de Tráfego","Utilize dados de tráfego para análise de padrões e otimização de rotas.","2029-06-03 09:00:00",1500,17000,1000,120
+74,"Reconhecimento de Entidades Nomeadas","Aplique técnicas de processamento de linguagem natural para reconhecimento de entidades.","2029-07-08 14:15:00",1100,12000,700,80
+75,"Aprendizado Federado em Saúde","Explore o aprendizado federado para análise de dados em saúde.","2029-08-13 09:30:00",1300,14000,800,90
+76,"Análise de Desempenho de Algoritmos de Otimização","Avalie e compare algoritmos de otimização em diferentes cenários.","2029-09-17 15:45:00",1200,13000,750,85
+77,"Detecção de Discurso de Ódio em Mídias Sociais","Desenvolva modelos para identificar discurso de ódio em mensagens de mídias sociais.","2029-10-22 14:00:00",1600,18000,1100,130
+78,"Análise de Imagens de Satélite","Utilize imagens de satélite para análise de padrões em áreas geográficas.","2029-11-26 10:15:00",1100,12000,700,80
+79,"Previsão de Manutenção Preditiva","Aplique modelos para prever necessidades de manutenção em equipamentos industriais.","2030-01-01 15:30:00",1200,13000,800,90
+80,"Análise de Sentimento em Resenhas de Produtos","Utilize técnicas de NLP para análise de sentimentos em resenhas de produtos.","2030-02-05 13:45:00",950,11000,500,60
+81,"Classificação de Imagens Médicas","Desenvolva modelos para classificar imagens médicas em diferentes categorias.","2030-03-12 12:00:00",1300,14000,800,90
+82,"Aprendizado Não Supervisionado em Séries Temporais","Explore algoritmos não supervisionados em dados temporais.","2030-04-16 11:15:00",1200,13000,750,85
+83,"Análise de Logs de Servidores","Utilize análise de logs para identificar padrões e anomalias em servidores.","2030-05-21 10:30:00",1500,17000,1000,120
+84,"Reconhecimento de Texto em Imagens","Aplique técnicas de processamento de imagem para reconhecimento de texto.","2030-06-25 15:45:00",1100,12000,700,80
+85,"Otimização de Portfólio de Investimentos","Utilize algoritmos de otimização para criar portfólios de investimentos.","2030-07-30 14:00:00",1300,14000,800,90
